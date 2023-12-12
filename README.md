@@ -54,5 +54,5 @@ This project focuses on analyzing the California housing dataset with Python, un
 - Dataset - [housingdataset.xlsx](https://github.com/Parthasakthi/California_housing_dataset_Visualization/blob/main/Dataset.xlsx)
 
 - Notebook - [project.ipynb](https://github.com/Parthasakthi/California_housing_dataset_Visualization/blob/main/Project.ipynb)
-- Project summary -[Projectsummary.md](https://github.com/Parthasakthi/California_housing_dataset_Visualization/blob/main/Project.ipynb)
+- Project summary -[Projectsummary.md](https://github.com/Parthasakthi/California_housing_dataset_Visualization/blob/main/README.md)
 
