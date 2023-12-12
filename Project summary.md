@@ -10,7 +10,7 @@ Analyzed the California housing dataset with Python, uncovering key insights and
   The dataset was imported and managed using the Pandas library, and visualized through Seaborn and Matplotlib in Python. Notably, the total bedrooms column exposed 207 missing values.
 
 ### Key Insights:
-  - Analyzing the house age provided insights into the construction years, enabling the graphing of house counts per year using Seaborn's countplot. Surprisingly, a recurring wave-like pattern emerged, with peaks around 1946, 1954-55, 1964-65, 1974, and 1985, reflecting the cyclical nature of the real estate industry. Intriguingly, a surge in house construction occurred in 1938, followed by a notable decline in 1939, possibly linked to the onset of World War I. This observation underscores the dataset's capacity to unveil historical nuances within the housing landscape.
+  - Analyzing the median house age provided insights into the construction years, enabling the graphing of house counts per year using Seaborn's countplot. Surprisingly, a recurring wave-like pattern emerged, with peaks around 1946, 1954-55, 1964-65, 1974, and 1985, reflecting the cyclical nature of the real estate industry. Intriguingly, a surge in house construction occurred in 1938, followed by a notable decline in 1939, possibly linked to the onset of World War II. This observation underscores the dataset's capacity to unveil historical nuances within the housing landscape.
 
   - While the maximum age recorded in the dataset is 52, it's essential to note that these values represent the median age of individual housing blocks. Consequently, there exist houses within these blocks that surpass the age of 52, emphasizing the presence of older dwellings in the dataset
 
